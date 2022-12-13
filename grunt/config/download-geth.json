@@ -1,0 +1,10 @@
+{
+	"options": {
+		"workspace": "generated/geth-workspace",
+		"output": {
+			"arm": "generated/geth/darwin-x64",
+			"linux64": "generated/geth/linux-x64",
+			"win64": "generated/geth/win32-x64"
+		}
+	}
+}
